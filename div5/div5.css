@@ -1,0 +1,157 @@
+a{
+	text-decoration: none;
+
+}
+.div5{
+	width: 1368px;
+	height: 740px;
+	margin: auto;
+}
+.toppp{
+	margin-top: 50px;
+}
+.div5 h3{
+	margin-left: 25px;
+	color: #878787;
+}
+.div5 a{
+	margin-left: 25px;
+	color: #656565;
+}
+.div51 a{
+	color: white;
+}
+.div5 p{
+	margin-left: 25px;
+}
+
+.div5text{
+	color: #989898;
+}
+.toppp1{
+	margin-top: 10px;
+}
+.foter{
+	background-color: #03254c;
+	color: white;
+	margin: auto;
+	width: 1368px;
+	height: 500px;
+	position: relative;
+}
+.div51{
+	float: left;
+	position: relative;
+	text-align: left;
+	width: 800px;
+	height: 410px;
+}
+.div52{
+	float: left;
+	position: relative;
+	width: 498px;
+	height: 410px;
+	text-align: left;
+}
+.div510{
+	float: left;
+}
+.div520{
+	float: left;
+}
+.xtag1{
+	width: 210px;
+	margin-left: 25px;
+	margin-top: 60px;
+}
+.xtag2{
+	width: 210px;
+	margin-left: 25px;
+	margin-top: 60px;
+}
+.xtag3{
+	width: 170px;
+	margin-left: 25px;
+	margin-top: 60px;
+}
+.xtag4{
+	width: 100px;
+	margin-left: 35px;
+	margin-top: 60px;
+}
+.xtag5{
+	width: 230px;
+	margin-top: 60px;
+	margin-left: 20px;
+	color: #656565;
+
+}
+.xtag6{
+	width: 234px;
+	margin-top: 60px;
+	color: #656565;
+	margin-left: 10px;
+}
+.linee{
+	border-left: 4px grey solid;
+	float: left;
+	width: 4px;
+	height: 170px;
+	margin-top: 60px;
+}
+.linee1{
+	border-bottom: 8px grey double;
+	width: 1368px;
+	height: 410px;
+}
+.footmain{
+	width: 1368px;
+	height: 70px;
+	position: relative;
+	margin: auto;
+}
+.foot1{
+	width: 273px;
+	margin-top: 20px;
+	float: left;
+	height: 60px;
+}
+.foot2{
+	width: 273px;
+	margin-top: 20px;
+	float: left;
+	height: 60px;
+}
+.foot3{
+	width: 273px;
+	margin-top: 20px;
+	float: left;
+	height: 60px;
+}
+.foot4{
+	width: 273px;
+	margin-top: 20px;
+	float: left;
+	height: 60px;
+}
+.foot5{
+	width: 203px;
+	margin-top: 20px;
+	float: left;
+	height: 60px;
+	font-size: 30px;
+}
+.div51 p{
+	font-size: 18px;
+	color: #656565;
+}
+
+
+/*------------------------hover properties-------------------------*/
+
+.div5 a:hover{
+	color: blue;
+}
+.foter a:hover{
+	text-shadow: 0 0 4px white;
+}

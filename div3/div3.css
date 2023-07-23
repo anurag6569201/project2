@@ -1,0 +1,54 @@
+.div3{
+	width: 1368px;
+	height: 305px;
+	position: relative;
+	margin: auto;
+	overflow: hidden;
+	background-color: white;
+	margin-bottom: 15px;
+}
+.div31{
+	width: 230px;
+	height: 305px;
+	float: left;
+	overflow: hidden;
+}
+.div32{
+	width: 230px;
+	height: 305px;
+	float: left;
+	overflow: hidden;
+}
+.div33{
+	width: 230px;
+	height: 305px;
+	float: left;
+	overflow: hidden;
+}
+.div34{
+	width: 230px;
+	height: 305px;
+	float: left;
+	overflow: hidden;
+}
+.div35{
+	width: 220px;
+	height: 305px;
+	float: left;
+	overflow: hidden;
+}
+.div36{
+	width: 220px;
+	height: 305px;
+	float: left;
+	overflow: hidden;
+}
+.viewbutton{
+	width: 85px;
+	height: 35px;
+	background-color: blue;
+	border: 2px blue solid;
+	color: white;
+	overflow: hidden;
+	border-radius: 4px;
+}

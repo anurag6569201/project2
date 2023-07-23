@@ -1,0 +1,37 @@
+.navbar{
+	width: 1368px;
+	height: 140px;
+	margin-top: 70px;
+}
+#navbox1{
+	margin-left: 84px;
+}
+.naap{
+	width: 120px;
+	height: 130px;
+	float: left;
+}
+.naap1{
+	width: 70px;
+	height: 70px;
+	cursor: pointer;
+}
+.navtext{
+	color: black;
+	text-decoration: none;
+}
+
+/*------------hover propeerties------------------*/
+
+.naap:hover .naap1{
+	width: 75px;
+	height: 75px;
+}
+.naap:hover .navtext{
+	font-size: 16.5px;
+	color: blue;
+}
+.naap:hover{
+	background-color: #dcdcdc;
+	border-radius: 8px;
+}

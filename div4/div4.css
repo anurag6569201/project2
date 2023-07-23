@@ -1,0 +1,30 @@
+.div4{
+	width: 1368px;
+	height: 630px;
+	overflow: hidden;
+	position: relative;
+	margin: auto;
+	background-color: #dcdcdc;
+}
+.div411{
+	margin-top: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.div412{
+	margin-top: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.div41, .div42, .div43, .div44, .div45, .div46{
+	width: 450px;
+	height: 300px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	cursor: pointer;
+
+}
+/* ----------------------hover properties----------------------- */

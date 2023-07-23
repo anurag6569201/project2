@@ -1,0 +1,119 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: verdana;
+}
+body{
+	background-color: #dcdcdc;
+}
+.header{
+	width: 1368px;
+	height: 60px;
+	position: fixed;
+	background-color: blue;
+	margin: auto;
+	z-index: 100;
+}
+.box1{
+	float: left;
+	width: 160px;
+	margin-left: 185px;
+}
+.box2{
+	float: left;
+	width: 368px;
+	height: 38px;
+	margin-top: 11px;
+	margin-left: 20px;
+}
+.box3{
+	float: left;
+	width: 140px;
+	margin-left: 25px;
+}
+.box4{
+	float: left;
+	width: 170px;
+	margin-left: 10px;
+}
+.box5{
+	float: left;
+	width: 60px;
+	margin-left: 10px;
+}
+.box6{
+	float: left;
+	width: 100px;
+}
+.searchbutton1{
+	width: 330px;
+	height: 38px;
+	float: left;
+	background-color: white;
+	padding: 2px 0px 2px 16px;
+	border-top-left-radius: 4px;
+	border-bottom-left-radius: 4px;
+	box-sizing: border-box;
+	border: none;
+}
+.searchbutton2{
+	width: 38px;
+	height: 38px;
+	float: left;
+	background-color: white;
+	border-top-right-radius: 4px;
+	border-bottom-right-radius: 4px;
+	border: none;
+	box-sizing: border-box;
+}
+.loginbutton{
+	width: 130px;
+	height: 30px;
+	background-color: white;
+	margin-top: 14px;
+	color: blue;
+	border: 1px solid white;
+	border-radius: 4px;
+	cursor: pointer;
+}
+.sell{
+	width: 160px;
+	font-weight: bold;
+	color: white;
+	margin-top: 21px;
+}
+.more{
+	margin-top: 21px;
+}
+.cart{
+	margin-top: 21px;
+}
+dialog{
+	margin: auto;
+	border: none;
+}
+
+/*------------------------hover properties------------------------*/
+
+.box2:hover{
+	box-shadow: 0 0 8px 4px white;
+	border-radius: 4px;
+}
+.loginbutton:hover{
+	box-shadow: 0 0 8px 4px white;
+	border-radius: 4px;
+}
+.box4:hover{
+	text-shadow: 0 0 4px white;
+	font-size: 16.5px;
+}
+.box5:hover{
+	text-shadow: 0 0 4px white;
+	font-size: 16.5px;
+}
+.box6:hover{
+	text-shadow: 0 0 4px white;
+	font-size: 16.5px;
+}
+
+/* ----------------------responsive data------------------------ */

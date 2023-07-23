@@ -1,0 +1,104 @@
+
+.div1{
+	width: 1368px;
+	height: 305px;
+	background-color: #DCDCDC;
+	margin: auto;
+	position: relative;
+
+}
+.div11{
+	width: 1340px;
+	height: 285px;
+	margin: auto;
+	position: absolute;
+	transform: translate(14px,10px);
+}
+.slider {
+	overflow: hidden;
+}
+
+.slide1 {
+	width: 100%;
+	transition: 3s;
+	animation: slideAnimation1 6s infinite;
+}
+
+.slide2 {
+	width: 100%;
+	transition: 2s;
+	animation: slideAnimation2 6s infinite;
+}
+
+.slide3 {
+	width: 100%;
+	transition: 2s;
+	animation: slideAnimation3 6s infinite;
+}
+
+@keyframes slideAnimation1 {
+	0%{
+		width: 0%;
+		height: 0px;
+		opacity: 0;
+	}
+	33.3%{
+		width: 100%;
+		height: 285px;
+		opacity: 1;
+	}
+	66.6%{
+		opacity: 0;
+		height: 0px;
+		width: 0%;
+	}
+	100%{
+		opacity: 0;
+		height: 0px;
+		width: 0%;
+	}
+}
+@keyframes slideAnimation2 {
+	0%{
+		opacity: 0;
+		height: 0px;
+		width: 0%;
+	}
+	33.3%{
+		opacity: 0;
+		height: 0px;
+		width: 0%;
+	}
+	66.6%{
+		opacity: 1;
+		height: 285px;
+		width: 100%;
+	}
+	100%{
+		opacity: 0;
+		height: 0px;
+		width: 0%;
+	}
+}
+@keyframes slideAnimation3 {
+	0%{
+		opacity: 1;
+		height: 285px;
+		width: 100%;
+	}
+	33.3%{
+		opacity: 0;
+		height: 0px;
+		width: 0%;
+	}
+	66.6%{
+		opacity: 0;
+		height: 0px;
+		width: 0%;
+	}
+	100%{
+		opacity: 1;
+		height: 285px;
+		width: 100%;
+	}
+}

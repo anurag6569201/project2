@@ -1,0 +1,111 @@
+.div2{
+	width: 1368px;
+	height: 305px;
+	position: relative;
+	margin: auto;
+	overflow: hidden;
+	background-color: white;
+	margin-top: 5px;
+}
+.div21{
+	width: 230px;
+	height: 305px;
+	float: left;
+	overflow: hidden;
+	cursor: pointer;
+}
+.div22{
+	width: 230px;
+	height: 305px;
+	float: left;
+	overflow: hidden;
+}
+.div23{
+	width: 230px;
+	height: 305px;
+	float: left;
+	overflow: hidden;
+}
+.div24{
+	width: 230px;
+	height: 305px;
+	float: left;
+	overflow: hidden;
+}
+.div25{
+	width: 220px;
+	height: 305px;
+	float: left;
+	overflow: hidden;
+}
+.div26{
+	width: 220px;
+	height: 305px;
+	float: left;
+	overflow: hidden;
+}
+.viewbutton{
+	width: 85px;
+	height: 35px;
+	background-color: blue;
+	border: 2px blue solid;
+	color: white;
+	border-radius: 4px;
+	overflow: hidden;
+	cursor: pointer;
+}
+
+.mouse{
+	cursor: pointer;
+}
+/*--------------------hover properties--------------------*/
+
+
+.div21:hover h2{
+	color: blue;
+}
+.div21:hover button{
+	box-shadow: 0 0 8px 4px blue;
+}
+.imt1:hover .imt{
+	width: 77%;
+	height: 180px;
+}
+.imt1:hover .tt1{
+	color: blue;
+}
+.imt1:hover .tt2{
+	font-weight: 600;
+}
+.imt1:hover .tt3{
+	font-weight: 600;
+}
+
+.div31:hover h2{
+	color: blue;
+}
+.div31:hover button{
+	box-shadow: 0 0 8px 4px blue;
+}
+.imt2:hover .imt{
+	width: 77%;
+	height: 180px;
+}
+.imt2:hover .tt1{
+	color: blue;
+}
+.imt2:hover .tt2{
+	font-weight: 600;
+}
+.imt2:hover .tt3{
+	font-weight: 600;
+}
+
+.div21:hover img{
+	width: 215px;
+	height: 125px;
+}
+.div31:hover img{
+	width: 215px;
+	height: 125px;
+}
